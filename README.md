@@ -1,7 +1,5 @@
 # Future of Blockchain for Financial Transactions
 
-This repository contains code and supporting files for the research project titled **"Future of Blockchain for Financial Transactions"**, submitted as part of the **Intro to Topics in FinTech** course at the **New Jersey Institute of Technology**.
-
 ## 📄 Project Overview
 
 The goal of this project is to analyze how blockchain technology enhances **data security**, **regulatory compliance**, and **scalability** in the financial services sector. We conducted both a qualitative and quantitative analysis using case studies of Ripple, Quorum, and Ethereum-based DeFi platforms.
