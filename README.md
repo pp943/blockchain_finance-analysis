@@ -39,23 +39,6 @@ The analysis is based on:
 - Markdown and LaTeX (for documentation and formatting)
 - Public data APIs and blockchain whitepapers
 
-## 📌 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/blockchain-finance-analysis.git
-   cd blockchain-finance-analysis
-   ```
-
-2. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run analysis:
-   ```bash
-   python analysis/security_comparison.py
-   ```
 
 ## 📬 Contact
 
