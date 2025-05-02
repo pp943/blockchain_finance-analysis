@@ -1,0 +1,4 @@
+Platform,FraudReduction,TPS,Uptime,ComplianceScore
+Ripple,75,1500,99.97,9
+Quorum,100,100,99.99,10
+Ethereum,0,30,95.0,5
